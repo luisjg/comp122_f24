@@ -1,7 +1,15 @@
 # Syllabus: Computer Architecture and Assembly Language and Lab
-* Semester: Fall 2023
+* Semester: Fall 2024
 * Professor: [Dr. Steven Fitzgerald](mailto:steve@my.csun.edu)
   * https://smf-steve.github.io/home/
+
+
+## How to be Successfull in the Class
+   1. You need to be engaged !
+   1. You need to take this seriously -- you need to play !
+   1. You need to put in both time and effort!
+   1. You need to coachable!
+
 
 ## Adding this Class
   * I do **NOT** provide permissions numbers.
@@ -15,12 +23,12 @@
 
    * Slack Link: https://comp122-csun.slack.com
 
-   * Slack Channel:  #fitzgerald-f23
+   * Slack Channel:  #fitzgerald-f24
      - to be used for all class discusses 
      - see the note below in the Collaboration and Teams Section
 
    * GitHub Organization: https://github.com/COMP122
-     - class material: https://github.com/COMP122/comp122-f23
+     - class material: https://github.com/COMP122/comp122-f24
 
    * Auxiliary Documents (on [drive.my.csun.edu](https://drive.google.com/drive/u/0/folders/1WpDQTpX-rFnPNkcynDI2-7faFX0qOzjH)): 
      https://drive.google.com/drive/u/0/folders/1WpDQTpX-rFnPNkcynDI2-7faFX0qOzjH <br>
@@ -32,32 +40,32 @@
 
 ---
 
-#### Class Information: COMP122-10 (21163)
-* Meeting Times: Monday & Wednesday @ 9:00-10:15 AM
+#### Class Information: COMP122-10 (16998)
+* Meeting Times: Monday & Wednesday @ 10:00-11:15 AM
 * Meeting Location: JD1600 
 * Final Exam: None
 
 
-##### Class Information: COMP122L-11 (21164)
-* Meeting Times: Monday & Wednesday @ 10:30-11:45 PM 
-* Meeting Location: JD1600
+##### Class Information: COMP122L-11 (16999)
+* Meeting Times: Monday & Wednesday @ 11:30-12:45 PM 
+* Meeting Location: JD1600A
 * Final Exam: None
 
 
-#### Class Information: COMP122L-12 (21165)
-* Meeting Times: Monday & Wednesday @ 12:30-1:45 PM
+#### Class Information: COMP122L-12 (17000)
+* Meeting Times: Monday & Wednesday @ 1:30-2:45 PM
 * Meeting Location: JD1600A
 * Final Exam: None
 
 ---
-##### Class Information: COMP122-01 (16438)
-* Meeting Times: Tuesday & Thursday @ 9:00-10:15 AM
-* Meeting Location: JD2213
+##### Class Information: COMP122-01 (16144)
+* Meeting Times: Tuesday & Thursday @ 10:00-11:15 AM
+* Meeting Location: JD2216
 * Final Exam: None
 
 
-##### Class Information: COMP122L-1 (16438)
-* Meeting Times: Tuesday & Thursday @ 10:30-11:45 PM
+##### Class Information: COMP122L-1 (16148)
+* Meeting Times: Tuesday & Thursday @ 11:30-12:45 PM
 * Meeting Location: JD2216
 * Final Exam: None
 
@@ -161,7 +169,7 @@ I encourage everyone to work in teams, to engage in collaborative learning activ
 
 
 ###  Deliverables: Due Dates and Late Submission
-All deliverables are enumerated in the "assignments.md" file within the class repository.  When an assignment is released and when it is graded, it is announced in class, and the "assignments.md" file is updated. The announcement might also be posted to the #fitzgerald-f23 channel. It is your responsibility to monitor all activities of the class to keep abreast of new assignments.
+All deliverables are enumerated in the "assignments.md" file within the class repository.  When an assignment is released and when it is graded, it is announced in class, and the "assignments.md" file is updated. The announcement might also be posted to the #fitzgerald-f24 channel. It is your responsibility to monitor all activities of the class to keep abreast of new assignments.
 
 In this class, all deliverables are submitted via `git` (a Revision Control System). Students *must* make periodic updates to the assignment's git repository.  That is to say, students must follow the standard software development process for both programming assignments and document-based assignments.
 
