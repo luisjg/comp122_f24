@@ -1,5 +1,57 @@
+sth -- 
+   errors detected
+   a little better error messages
+   output file
+
+If no error on validate -- should we show the output and/or  EXITVAL
+when do you print the correct EXITVAL
+
+?
+execute -- provide the output, EXITVAL, and summary count
+validate -- provide the correct and actual ouptut
+                    the correct and acutal EXITvalue
+                    
+
+\*_subroutine
+  - exit value
+  - null 
+  - -L of just the appropriate suffex
+     -L .  ===  -L `*.s`
+
+templates
+  - unify makefile
+  - test
+  - MD_git_cheatesheet  ==>  DEV_git_cheatsheet or just git_cheatsheet
+
+use template for
+  - sum
+  - 1st assignment
 
 
+Grading in the Fall:
+   - Made changes in branching for grading
+   - Take steps to double check grading steps for the first assignment
+
+
+
+1. Assignments...
+   1. First Assignment
+   1. First Programming Assignment
+      - simple java program
+        - demo: 
+           - write java program
+           - 
+
+      - use of Makefile
+      - use of java_subroutine
+      - use of sth
+
+   1. sum... java code only
+      - First Programming assigment is for participation
+      1. write the java code (\*.j)
+      1. use java_subroutine
+      1. use make
+      1. write several sth cases
 
 
 Ideas for the Fall...
@@ -15,8 +67,6 @@ Ideas for the Fall...
    - enumerate all of the registers into groups
       - (reserved: gp, at, k1, k2), T-s, S-es, a-s, v-s, fp, sp
 
-
-make template/MD template/MD  into a git module
 
 
 Update mips_subroutine / java_subroutine
